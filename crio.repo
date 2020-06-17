@@ -1,4 +1,4 @@
-[simonswine:cri-o:epel-7]
+[epel-7]
 name=Copr repo for cri-o owned by simonswine
 baseurl=https://download.copr.fedorainfracloud.org/results/simonswine/cri-o/epel-7-$basearch/
 type=rpm-md
@@ -9,7 +9,7 @@ repo_gpgcheck=0
 enabled=1
 enabled_metadata=1
 
-[simonswine:cri-o:epel-8]
+[epel-8]
 name=Copr repo for cri-o owned by simonswine
 baseurl=https://download.copr.fedorainfracloud.org/results/simonswine/cri-o/epel-8-$basearch/
 type=rpm-md
